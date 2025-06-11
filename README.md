@@ -1,1 +1,1 @@
-A simple static website
+A simple static website Using html,css and javascript
